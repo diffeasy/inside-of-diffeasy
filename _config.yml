@@ -1,10 +1,10 @@
 actors:
-  alice:
-    image_url: /images/actors/alice.png
-    name: alice
-    url: http://sns.example.com/alice
+  atsushi:
+    image_url: /images/actors/atsushi.png
+    name: Atsushi
+    url: https://twitter.com/tm040103
   bob:
-    image_url: /images/actors/bob.png
+    image_url: /images/actors/higashiuchi.png
     name: bob
     url: http://sns.example.com/bob
 author: diffeasy
@@ -29,5 +29,5 @@ permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
-url: http://example.com
+title: Inside of diffeasy
+url: https://diffeasy.github.io/inside-of-diffeasy/
