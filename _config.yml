@@ -1,10 +1,14 @@
 actors:
   atsushi:
     image_url: /images/actors/atsushi.png
-    name: Atsushi
+    name: あつしさん
     url: https://twitter.com/tm040103
-  bob:
+  higashiuchi:
     image_url: /images/actors/higashiuchi.png
+    name: 
+    url: http://sns.example.com/bob
+  masae:
+    image_url: /images/actors/masae.png
     name: bob
     url: http://sns.example.com/bob
 author: diffeasy
