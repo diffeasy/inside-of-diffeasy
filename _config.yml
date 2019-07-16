@@ -7,10 +7,10 @@ actors:
     image_url: /images/actors/bob.png
     name: bob
     url: http://sns.example.com/bob
-author: alice
-description: Example description
-description_long: Example long description
-email: info@example.com
+author: diffeasy
+description: diffeasyの中の人がお届けするPodcastです！
+description_long: diffeasyの中の人がお届けするPodcastです！diffeasy内で起きた出来事を様々なメンバーの目線でお届けします！
+email: info@diffeasy.com  
 exclude:
   - docker
   - docker-compose.yml
@@ -20,7 +20,7 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: examplehashtag
+hashtag: diffeasy
 itunes_podcast_url:
 keywords: comma,separated,keywords
 language: ja
