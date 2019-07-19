@@ -8,7 +8,10 @@ actors:
     name: まさうぇい
     url: https://twitter.com/ysak0824
   takeshi:
+    image_url: /images/actors/takeshi.png
     name: たけし
+    url: https://twitter.com/_takeshi_24
+
 author: diffeasy
 description: diffeasyの中の人がお届けするPodcastです！
 description_long: diffeasyの中の人がお届けするPodcastです！diffeasy内で起きた出来事を様々なメンバーの目線でお届けします！
