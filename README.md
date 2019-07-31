@@ -1,3 +1,3 @@
-# Yattecast
+# Inside of diffeasy!!
 
-https://r7kamura.github.io/yattecast/
+https://diffeasy.github.io/inside-of-diffeasy
