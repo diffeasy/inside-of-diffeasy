@@ -26,6 +26,12 @@ actors:
   taikun:
     image_url: /images/actors/taikun.jpg
     name: たいくん
+  atsushi:
+    image_url: /images/actors/atsushi.jpg
+    name: あつしさん
+  kosuke:
+    image_url: /images/actors/kosuke.jpg
+    name: こうすけさん
 
 
 author: diffeasy
