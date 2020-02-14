@@ -32,6 +32,21 @@ actors:
   kosuke:
     image_url: /images/actors/kosuke.jpg
     name: こうすけさん
+  yasu:
+    image_url: /images/actors/yasux.jpg
+    name: やすくん
+  ru:
+    image_url: /images/actors/ru.jpg
+    name: るーちゃん
+  kei:
+    image_url: /images/actors/kei.jpg
+    name: けいくん
+  kensei:
+    image_url: /images/actors/kensei.jpg
+    name: けんせいさん
+  hayato:
+    image_url: /images/actors/hayato.jpg
+    name: はやとさん
 
 
 author: diffeasy
