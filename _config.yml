@@ -33,7 +33,7 @@ actors:
     image_url: /images/actors/kosuke.jpg
     name: こうすけさん
   yasu:
-    image_url: /images/actors/yasux.jpg
+    image_url: /images/actors/yasu.jpg
     name: やすくん
   ru:
     image_url: /images/actors/ru.jpg
